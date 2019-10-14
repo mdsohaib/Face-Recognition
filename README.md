@@ -1,6 +1,6 @@
 # Face-Recognition
 
-If jupyter notebook is not opening copy the file URL and open it in https://nbviewer.jupyter.org/
+If jupyter notebook is not opening click on this link https://nbviewer.jupyter.org/github/mdsohaibuddin/Face-Recognition/blob/master/Face_detection.ipynb
 
 ## Loss Function = 0.2309
 ## Accuracy = 94.27%
