@@ -1,4 +1,4 @@
-# Face-Recognition
+# Face-Recognition-Using-CNN
 
 If jupyter notebook is not opening click on this link https://nbviewer.jupyter.org/github/mdsohaibuddin/Face-Recognition/blob/master/Face_detection.ipynb
 
